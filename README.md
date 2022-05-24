@@ -5,4 +5,5 @@ A simple calculator script in python
 A tkinter ui based calculator with advanced operations supported 
 
 # Like: 
-  pi, e, sin, cos, tan, log
+       pi, e, sin, cos, tan, log
+       Using math module
